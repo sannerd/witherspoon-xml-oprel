@@ -17309,7 +17309,11 @@
 	</attribute>
 	<attribute>
 		<id>SYSTEM_WOF_DISABLE</id>
-		<default>OFF</default>
+		<default>0x1</default>
+	</attribute>
+	<attribute>
+		<id>SYSTEM_VDM_DISABLE</id>
+		<default>0x1</default>
 	</attribute>
 	<attribute>
 		<id>SYS_FORCE_ALL_CORES</id>
